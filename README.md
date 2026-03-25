@@ -1,1 +1,3 @@
-# deployed-on-Base-verified-on-Basescan-learning-smart-contracts
+Deployed on Base
+Verified on Basescan
+Learning smart contracts
